@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vanderhaygm.NeuraSkill",
+      "sha256_cert_fingerprints": [
+        "24:88:41:9F:59:D6:25:C4:EC:1C:84:0E:91:73:B5:5A:BE:73:6B:30:2F:82:C6:CB:88:2A:1B:87:2A:95:69:34"
+      ]
+    }
+  }
+]
